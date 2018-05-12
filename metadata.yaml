@@ -1,0 +1,28 @@
+_repo: U.S.-Copyright-Renewals-1975-July---December_11852
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Library of Congress. Copyright Office
+    aliases:
+    - United States. Copyright Office
+    - Library of Congress. Register of Copyrights
+    - Office, U.S. Copyright
+    gutenberg_agent_id: '141'
+    url: http://www.gutenberg.org/2009/agents/141
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Copyright -- United States -- Catalogs'
+title: U.S. Copyright Renewals, 1975 July - December
+url: http://www.gutenberg.org/ebooks/11852
