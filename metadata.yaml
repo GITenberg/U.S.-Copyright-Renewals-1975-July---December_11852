@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '141'
     url: http://www.gutenberg.org/2009/agents/141
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11852#U.S.-Copyright-Renewals-1975-July---December
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
